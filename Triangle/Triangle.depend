@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605798053 source:c:\users\jeter\desktop\c project\triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
